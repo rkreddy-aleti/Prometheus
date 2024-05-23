@@ -1,2 +1,1 @@
-# prometheus
-Prometheus installation guide
+# prometheus-monitoring
